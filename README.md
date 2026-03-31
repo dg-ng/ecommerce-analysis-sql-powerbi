@@ -1,5 +1,5 @@
 # 🛒 E-Commerce Performance Analysis
-> **Stack:** SQL Server · Power BI · Python  
+> **Stack:** SQL Server · Power BI
 > **Period:** March 2012 – March 2015 (Q1)
 > **Prepared by:** Dung Nguyen
 
